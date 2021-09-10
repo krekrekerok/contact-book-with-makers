@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "title": "Аусси",
+      "price": "1000",
+      "photo": "https://natalyland.ru/wp-content/uploads/9/c/d/9cd58859400bca5b473122e3d2dde1e8.jpeg",
+      "description": "Овчарка",
+      "id": 1
+    },
+    {
+      "title": "Вулкан",
+      "price": "15000",
+      "photo": "https://dogcatdog.ru/wp-content/uploads/0/4/c/04c1d393b87ebe673fbe2b2edaaa87d3.jpe",
+      "description": "Щитовой вулкан",
+      "id": 3
+    },
+    {
+      "title": "Квартира",
+      "price": "900",
+      "photo": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/70345863.jpg?k=03d48084746da7cad7c50a268fde96ab8293b350d7c73334aaf2a2cc2c92f670&o=&hp=1",
+      "description": "Осло, Норвегия",
+      "id": 5
+    },
+    {
+      "title": "Экскурсия",
+      "price": "3000",
+      "photo": "https://fb.ru/misc/i/gallery/31654/3108687.jpg",
+      "description": "Китайская стена",
+      "id": 6
+    },
+    {
+      "title": "Фрукт ",
+      "price": "400",
+      "photo": "https://toursthailand.ru/wp-content/uploads/2020/05/frukti-dragon.jpg",
+      "description": "Драгон фрукт",
+      "id": 7
+    },
+    {
+      "title": "Завтрак ",
+      "price": "300",
+      "photo": "https://365news.biz/wp-content/uploads/2021/04/Coffee_Muesli_Fruit_Juice_Croissant_Apples_Orange_540487_8007x6000.jpg",
+      "description": "Полноценный завтрак",
+      "id": 8
+    },
+    {
+      "title": "салют",
+      "price": "3000",
+      "photo": "https://avatars.mds.yandex.net/get-zen_doc/1721884/pub_5e0c865a3d008800afe25668_5e0ca4f83f548700ad63a7a8/scale_1200",
+      "description": "100шт",
+      "id": 10
+    },
+    {
+      "title": "салют",
+      "price": "2500",
+      "photo": "https://avatars.mds.yandex.net/get-zen_doc/1721884/pub_5e0c865a3d008800afe25668_5e0ca4f83f548700ad63a7a8/scale_1200",
+      "description": "70шт",
+      "id": 11
+    }
+  ]
+}
