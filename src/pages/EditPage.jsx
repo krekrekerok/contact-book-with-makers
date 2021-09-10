@@ -14,7 +14,6 @@ const EditPage = () => {
     useEffect (()=>{
         setEditProduct(productToEdit)
     }, [productToEdit])
-    console.log(productToEdit)
 
     function handleInputs(e){
         let obj = {

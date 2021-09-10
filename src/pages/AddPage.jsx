@@ -41,7 +41,6 @@ const AddPage = () => {
                 photo: "",
                 description: ""
             })
-            console.log('Added')
             history.push("/")         
     }
 
